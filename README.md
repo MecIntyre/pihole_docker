@@ -1,3 +1,13 @@
-# piHole
+# Border Gateway (Router)
 
-Ein filternder DNS-Server zum Herausfiltern von Trackern, Malwaresites und Werbung aus dem Datenverkehr.
+```bash
+Ein Vagrantfile zur Installation eines Routers, mit filterndem DNS-Server zum verhindern von Trackern, Malwaresites und Werbung aus dem Datenverkehr..
+```
+
+# Benutzung
+
+```bash
+cd pihole_docker
+make
+```
+
